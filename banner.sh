@@ -1,4 +1,3 @@
-
 #!/bin/bash
 if [ "$PS1" ]; then
 #Bash Colour Codes
